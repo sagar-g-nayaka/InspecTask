@@ -1,5 +1,4 @@
-Name: InspecTask
-Type: Task Management Application
+Name: InspecTask - Task Management Application
 
 Core Features
 1. Task Input Form
